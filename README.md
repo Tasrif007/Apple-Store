@@ -4,7 +4,7 @@ Practice and Learn
 **Screenshot**
 
 <img width="960" alt="1" src="https://user-images.githubusercontent.com/78270149/120842008-ff58c380-c58d-11eb-9fc5-baf1aba5014d.png">
-<img width="960" alt="2" src="https://user-images.githubusercontent.com/78270149/120842069-0e3f7600-c58e-11eb-9f29-4fe9917cfea0.png">
+<img width="951" alt="2" src="https://user-images.githubusercontent.com/78270149/120912148-ab91cb80-c6ae-11eb-9174-1983f53b8276.png">
 <img width="959" alt="3" src="https://user-images.githubusercontent.com/78270149/120842077-10093980-c58e-11eb-8b0c-b0c8aa2dfb16.png">
 <img width="941" alt="8" src="https://user-images.githubusercontent.com/78270149/120912106-52299c80-c6ae-11eb-8a89-896a33633198.png">
 <img width="955" alt="9" src="https://user-images.githubusercontent.com/78270149/120912109-5655ba00-c6ae-11eb-866a-61bb26383d3b.png">
